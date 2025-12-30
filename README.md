@@ -32,9 +32,10 @@ Now, for 45 minutes, your device is "immune" to TikTok and Instagram. Even if yo
 
 You can reach out to me if you have any questions
 
-    taha1428mm@gmail.com
+     taha1428mm@gmail.com
 
 ## Author
 
 **Taha Al-Mukhtar**
+
 
