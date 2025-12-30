@@ -16,7 +16,8 @@ The Problem It Solves: We all fall into the same trap: You are working hard, and
 
 What happens if you try to cheat? 🚫 If you try to open YouTube or Facebook while the timer is running, the extension will immediately close the page and display a red screen telling you: "No! Focus on your work now!"
 
-**Practical Example: Imagine you have an important exam or project:**
+# **Practical Example: Imagine you have an important exam or project:**
+<img width="373" height="370" alt="Screenshot 2025-12-23 220949" src="https://github.com/user-attachments/assets/769f7894-3881-47d1-ad19-31ba81151128" />
 
 1. Open Focus Flow.
 
@@ -37,5 +38,8 @@ You can reach out to me if you have any questions
 ## Author
 
 **Taha Al-Mukhtar**
+
+<img width="928" height="611" alt="Screenshot 2025-12-23 220916" src="https://github.com/user-attachments/assets/4c5d6ae5-cfea-4b50-9514-faff4de8e1c3" />
+
 
 
