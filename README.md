@@ -1,4 +1,4 @@
-## Focus Flow 🎯
+## **Focus Flow 🎯**
 
 This is my final project for the Harvard University CS50 course 👇 .
 
@@ -37,9 +37,10 @@ You can reach out to me if you have any questions
 
      taha1428mm@gmail.com
 
-## Author
+## **Author**
 
 **Taha Al-Mukhtar**
+
 
 
 
