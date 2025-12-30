@@ -6,7 +6,7 @@ What is "Focus Flow"? 🎯 It acts as a "personal bodyguard" for your focus whil
 
 The Problem It Solves: We all fall into the same trap: You are working hard, and then you tell yourself, "I'll just take a quick look at Facebook or YouTube." Suddenly, an hour has passed, and you haven't accomplished anything!
 
-How Does "Focus Flow" Solve This? (The Concept) This project places a "temporary lock" on the websites that distract you.
+**How Does "Focus Flow" Solve This? (The Concept) This project places a "temporary lock" on the websites that distract you.**
 
 1. You are in charge: You select the "banned" websites (e.g., youtube.com, facebook.com).
 
@@ -16,7 +16,7 @@ How Does "Focus Flow" Solve This? (The Concept) This project places a "temporary
 
 What happens if you try to cheat? 🚫 If you try to open YouTube or Facebook while the timer is running, the extension will immediately close the page and display a red screen telling you: "No! Focus on your work now!"
 
-Practical Example: Imagine you have an important exam or project:
+**Practical Example: Imagine you have an important exam or project:**
 
 1. Open Focus Flow.
 
@@ -32,9 +32,9 @@ Now, for 45 minutes, your device is "immune" to TikTok and Instagram. Even if yo
 
 You can reach out to me if you have any questions
 
-<code>taha1428mm@gmail.com
-</code>
+    taha1428mm@gmail.com
 
 ## Author
 
 **Taha Al-Mukhtar**
+
