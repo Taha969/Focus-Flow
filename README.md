@@ -4,6 +4,8 @@ This is my final project for the Harvard University CS50 course 👇 .
 
 What is "Focus Flow"? 🎯 It acts as a "personal bodyguard" for your focus while you work on your computer. It is a Chrome Extension designed to prevent you from wasting time.
 
+<img width="928" height="611" alt="Screenshot 2025-12-23 220916" src="https://github.com/user-attachments/assets/4c5d6ae5-cfea-4b50-9514-faff4de8e1c3" />
+
 The Problem It Solves: We all fall into the same trap: You are working hard, and then you tell yourself, "I'll just take a quick look at Facebook or YouTube." Suddenly, an hour has passed, and you haven't accomplished anything!
 
 **How Does "Focus Flow" Solve This? (The Concept) This project places a "temporary lock" on the websites that distract you.**
@@ -39,7 +41,8 @@ You can reach out to me if you have any questions
 
 **Taha Al-Mukhtar**
 
-<img width="928" height="611" alt="Screenshot 2025-12-23 220916" src="https://github.com/user-attachments/assets/4c5d6ae5-cfea-4b50-9514-faff4de8e1c3" />
+
+
 
 
 
