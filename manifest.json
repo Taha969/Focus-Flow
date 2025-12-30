@@ -1,0 +1,19 @@
+{
+  "name": "Focus Flow",
+  "description": "Block distractions and boost your productivity with focused work sessions.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": ["alarms", "notifications", "storage", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Focus Flow"
+  }
+}
